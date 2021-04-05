@@ -1,5 +1,3 @@
-# todolist
-To-Do List
 A Udemy course exercise to get a to-do list to do the following:
 
 1. If you click on the list item, it toggles the .done  class on and off.
