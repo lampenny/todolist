@@ -30,7 +30,7 @@ function createListElement() {
 };
 
 function delList(){
-	var idx = this.parentElement.remove();
+	var removeLi = this.parentElement.remove();
 };
 
 function addListAfterClick() {
